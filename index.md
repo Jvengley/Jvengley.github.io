@@ -8,3 +8,5 @@ public static void main(String[] args){
 }
 
 ```
+This site was built using [GitHub Pages](https://pages.github.com/).
+
